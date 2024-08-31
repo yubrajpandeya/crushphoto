@@ -1,4 +1,3 @@
-85% of storage used … If you run out, you can't create, edit and upload files. Get 100 GB of storage for ₹130.00 ₹35.00/month for 2 months.
 var radius = 240; // how big of the radius
 var autoRotate = true; // auto rotate or not
 var rotateSpeed = -60; // unit: seconds/360 degrees
