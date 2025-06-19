@@ -18,7 +18,7 @@ Installation:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/3D-Multi-Image-Display.git
+git clone https://github.com/yubrajpandeya/crushphoto.git
 Navigate to the project directory:
 bash
 Copy code
