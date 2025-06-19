@@ -22,7 +22,7 @@ git clone https://github.com/yubrajpandeya/crushphoto.git
 Navigate to the project directory:
 bash
 Copy code
-cd 3D-Multi-Image-Display
+cd crushphoto
 Open index.html in your preferred browser to view the 3D image gallery.
 Usage:
 
